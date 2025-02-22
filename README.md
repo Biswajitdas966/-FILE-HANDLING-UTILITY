@@ -31,5 +31,5 @@ A simple Java program for basic file handling operations, including reading, wri
 
 ## output:
    
-
+![Image](https://github.com/user-attachments/assets/d1b6c836-dd77-4ed3-9842-9c2f03952859)
 
